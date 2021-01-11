@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7a61c93-8bff-4c7b-95ed-3a3314810989" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aEos5fyv7BbfSbW8UXHu2fvKhZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Python.server">
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bertextractivesummarizer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="summarize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bertextractivesummarizer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/summarize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.summarize" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7a61c93-8bff-4c7b-95ed-3a3314810989" name="Default Changelist" comment="" />
+      <created>1586310317318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586310317318</updated>
+      <workItem from="1586310326273" duration="4890000" />
+      <workItem from="1586340276406" duration="38000" />
+      <workItem from="1586356724984" duration="1310000" />
+      <workItem from="1586454660951" duration="1189000" />
+      <workItem from="1586486245827" duration="87000" />
+      <workItem from="1586504957179" duration="4557000" />
+      <workItem from="1586509551262" duration="1263000" />
+      <workItem from="1586521833525" duration="368000" />
+      <workItem from="1586714102304" duration="191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586313340405">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="418" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586313340405" />
+    <state x="693" y="303" width="524" height="507" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586714140063">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="693" y="303" width="524" height="507" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1586714140063" />
+    <state x="718" y="282" key="#xdebugger.evaluate" timestamp="1586510427055">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="718" y="282" key="#xdebugger.evaluate/0.27.1920.1053@0.27.1920.1053" timestamp="1586510427055" />
+    <state width="1876" height="289" key="GridCell.Tab.0.bottom" timestamp="1586510818543">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1876" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586317195164" />
+    <state width="1876" height="289" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1586510818543" />
+    <state width="1876" height="289" key="GridCell.Tab.0.center" timestamp="1586510818542">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1876" height="298" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586317195163" />
+    <state width="1876" height="289" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1586510818542" />
+    <state width="1876" height="289" key="GridCell.Tab.0.left" timestamp="1586510818542">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1876" height="298" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586317195163" />
+    <state width="1876" height="289" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1586510818542" />
+    <state width="1876" height="289" key="GridCell.Tab.0.right" timestamp="1586510818543">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1876" height="298" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586317195163" />
+    <state width="1876" height="289" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1586510818543" />
+    <state width="1876" height="356" key="GridCell.Tab.1.bottom" timestamp="1586510818522">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1876" height="356" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1586510818522" />
+    <state width="1876" height="356" key="GridCell.Tab.1.center" timestamp="1586510818520">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1876" height="356" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1586510818520" />
+    <state width="1876" height="356" key="GridCell.Tab.1.left" timestamp="1586510818520">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1876" height="356" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1586510818520" />
+    <state width="1876" height="356" key="GridCell.Tab.1.right" timestamp="1586510818521">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1876" height="356" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1586510818521" />
+    <state width="960" height="545" key="XDebugger.FullValuePopup" timestamp="1586510414622">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="960" height="545" key="XDebugger.FullValuePopup/0.27.1920.1053@0.27.1920.1053" timestamp="1586510414622" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/server.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/server.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/server.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/server.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/server.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bertextractivesummarizer$server.coverage" NAME="server Coverage Results" MODIFIED="1586510769195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bertextractivesummarizer$summarize.coverage" NAME="summarize Coverage Results" MODIFIED="1586314094168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
